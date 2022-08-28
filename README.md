@@ -1,5 +1,5 @@
 # Mathematical Logic for Computer Science - 2020
-[![License: GPL v3](https://img.shields.io/badge/-Sapienza Uiversity of Rome-red)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/-Sapienza%20University%20of%20Rome-red)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains the homeworks and the final presentation for the University course [Mathematical Logic for Computer Science](https://gomppublic.uniroma1.it/Insegnamenti/Render.aspx?UID=a41c2b30-475a-45cf-8bb1-cffc83e33d90&CodiceInsegnamento=1047636&CodiceCurriculum=aa879c53-02b5-418b-b781-1929ea8e9658&CodiceUT=c7b57f2b-572d-4302-a10d-d72d92af1fe5) @ [Eurecom](https://www.uniroma1.it/it/pagina-strutturale/home).
 # Abstract
